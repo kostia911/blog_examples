@@ -1,0 +1,1 @@
+example of making wait with checking js errors
